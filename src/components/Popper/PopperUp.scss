@@ -1,0 +1,15 @@
+.popup-container {
+  position: absolute;
+  will-change: transform;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 11em;
+  display: flex;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 0 5px 2px rgba(15, 15, 15, .2);
+  font-size: 16px;
+  color: black;
+  height: 90px;
+}
